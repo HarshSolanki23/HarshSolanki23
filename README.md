@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HarshSolanki23
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Data Science and ML Projects
+- 👀 I’m interested in AI anad Full Stack development
+- 🌱 I’m currently learning Full Stack development
 - 📫 How to reach me solankiharsh0078@gmail.com
 
 <!---
